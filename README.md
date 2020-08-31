@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **abhim-12/abhim-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Graduate from MS Ramaiah Institute of Technology, Bangalore. <br> 
+#### Currently working as a Data Scientist at Impact Analytics.
+#### Areas of Interest - Data Science, Analytics and Artifical Inteligence.
