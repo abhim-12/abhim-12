@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 #### Graduate from MS Ramaiah Institute of Technology, Bangalore. <br> 
-#### Currently working as a Data Scientist at Impact Analytics.
+#### Currently working as a Senior Data Scientist at Impact Analytics (Bangalore).
 #### Areas of Interest - Data Science, Analytics and Artifical Inteligence.
